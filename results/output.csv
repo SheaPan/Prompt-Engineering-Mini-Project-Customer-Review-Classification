@@ -1,0 +1,51 @@
+review,output_v1,output_v2
+The product arrived late and was damaged.,Complaint,Complaint
+I love this item! Works perfectly.,Praise,Praise
+The packaging could be better.,Query,Suggestion
+How can I track my order?,Query,Query
+"Very satisfied with the purchase, will buy again.",Praise,Praise
+The quality is much lower than expected. Disappointed.,Complaint,Complaint
+"Excellent customer service, they solved my issue quickly.",Praise,Praise
+"It's okay, does the job but nothing special.",Query,Suggestion
+Do you have this in other colors?,Query,Query
+Fast shipping and great value for money.,Praise,Praise
+The instructions were very confusing and hard to follow.,Complaint,Complaint
+"Absolutely brilliant, exceeds all my expectations!",Praise,Praise
+Is this compatible with iPhone 15?,Query,Query
+The color is slightly different from the pictures.,Query,Complaint
+"Worst experience ever, the item never arrived.",Complaint,Complaint
+Simple to use and very effective.,Praise,Praise
+Can I get a refund if I don't like it?,Query,Query
+Decent quality for the price point.,Praise,Praise
+Highly recommend this seller to everyone.,Praise,Praise
+It broke after only two days of use. Cheap material.,Complaint,Complaint
+"Average product, took a long time to ship.",Complaint,Complaint
+Fantastic! Exactly what I was looking for.,Praise,Praise
+When will this be back in stock?,Query,Query
+"The box was crushed, but the product inside was fine.",Query,Complaint
+"Amazing quality, I'm impressed!",Praise,Praise
+"Not worth the money, stay away.",Complaint,Complaint
+Does this come with a warranty?,Query,Query
+It's a bit smaller than I thought it would be.,Query,Suggestion
+"Super fast delivery, item as described.",Praise,Praise
+The software is buggy and keeps crashing.,Complaint,Complaint
+"Does the job, no complaints so far.",Praise,Praise
+What is the return policy for international orders?,Query,Query
+The material feels a bit flimsy.,Complaint,Complaint
+Best purchase I've made this year!,Praise,Praise
+Customer support was rude and unhelpful.,Complaint,Complaint
+"It’s a gift, so I haven't opened it yet.",Query,Query
+Is there a discount for bulk orders?,Query,Query
+Great design and very functional.,Praise,Praise
+The size guide is completely wrong.,Complaint,Complaint
+"Exactly as pictured, arrived on time.",Praise,Praise
+"It's fine, but I've seen better versions elsewhere.",Suggestion,Suggestion
+Can I change my shipping address?,Query,Query
+Five stars! Perfect in every way.,Praise,Praise
+The battery life is much shorter than advertised.,Complaint,Complaint
+"It works, but the noise level is quite high.",Complaint,Complaint
+I'm very happy with this transaction.,Praise,Praise
+Where is my package? It's been two weeks.,Complaint,Complaint
+"Poor quality, the stitching is coming apart.",Complaint,Complaint
+A solid product for daily use.,Praise,Praise
+Is this BPA free?,Query,Query

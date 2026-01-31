@@ -1,0 +1,51 @@
+id,review,sentiment
+1,"The product arrived late and was damaged.",Negative
+2,"I love this item! Works perfectly.",Positive
+3,"The packaging could be better.",Neutral
+4,"How can I track my order?",Inquiry
+5,"Very satisfied with the purchase, will buy again.",Positive
+6,"The quality is much lower than expected. Disappointed.",Negative
+7,"Excellent customer service, they solved my issue quickly.",Positive
+8,"It's okay, does the job but nothing special.",Neutral
+9,"Do you have this in other colors?",Inquiry
+10,"Fast shipping and great value for money.",Positive
+11,"The instructions were very confusing and hard to follow.",Negative
+12,"Absolutely brilliant, exceeds all my expectations!",Positive
+13,"Is this compatible with iPhone 15?",Inquiry
+14,"The color is slightly different from the pictures.",Neutral
+15,"Worst experience ever, the item never arrived.",Negative
+16,"Simple to use and very effective.",Positive
+17,"Can I get a refund if I don't like it?",Inquiry
+18,"Decent quality for the price point.",Neutral
+19,"Highly recommend this seller to everyone.",Positive
+20,"It broke after only two days of use. Cheap material.",Negative
+21,"Average product, took a long time to ship.",Neutral
+22,"Fantastic! Exactly what I was looking for.",Positive
+23,"When will this be back in stock?",Inquiry
+24,"The box was crushed, but the product inside was fine.",Neutral
+25,"Amazing quality, I'm impressed!",Positive
+26,"Not worth the money, stay away.",Negative
+27,"Does this come with a warranty?",Inquiry
+28,"It's a bit smaller than I thought it would be.",Neutral
+29,"Super fast delivery, item as described.",Positive
+30,"The software is buggy and keeps crashing.",Negative
+31,"Does the job, no complaints so far.",Positive
+32,"What is the return policy for international orders?",Inquiry
+33,"The material feels a bit flimsy.",Neutral
+34,"Best purchase I've made this year!",Positive
+35,"Customer support was rude and unhelpful.",Negative
+36,"It’s a gift, so I haven't opened it yet.",Neutral
+37,"Is there a discount for bulk orders?",Inquiry
+38,"Great design and very functional.",Positive
+39,"The size guide is completely wrong.",Negative
+40,"Exactly as pictured, arrived on time.",Positive
+41,"It's fine, but I've seen better versions elsewhere.",Neutral
+42,"Can I change my shipping address?",Inquiry
+43,"Five stars! Perfect in every way.",Positive
+44,"The battery life is much shorter than advertised.",Negative
+45,"It works, but the noise level is quite high.",Neutral
+46,"I'm very happy with this transaction.",Positive
+47,"Where is my package? It's been two weeks.",Inquiry
+48,"Poor quality, the stitching is coming apart.",Negative
+49,"A solid product for daily use.",Positive
+50,"Is this BPA free?",Inquiry
